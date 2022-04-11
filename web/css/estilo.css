@@ -1,0 +1,29 @@
+.corpo {
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.corpo a {
+    font-size: 20px;
+}
+
+.corpo ul {
+    font-size: 24px;
+    list-style-type: square;
+}
+
+.item-formulario{
+    margin-top:  15px;
+}
+
+.item-formulario button[type=submit]{
+    width: 275px;
+    height: 30px;
+    background-color: lightgreen;
+}
+
+.item-formulario button[type=reset]{
+    width: 275px;
+    height: 30px;
+    background-color: lightcoral;
+}
